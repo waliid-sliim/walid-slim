@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/walid-slim/static/css/main.44dced2e.css",
-    "main.js": "/walid-slim/static/js/main.a98a90af.js",
-    "static/media/walid4.png": "/walid-slim/static/media/walid4.8cecb752fde99f87d943.png",
-    "static/media/project1.png": "/walid-slim/static/media/project1.20a76e8cc2a0d11b0a5f.png",
-    "static/media/project2.png": "/walid-slim/static/media/project2.f81d405d7f2257b407ac.png",
-    "static/media/native.png": "/walid-slim/static/media/native.90fb0021be64f2b1ce7e.png",
-    "static/media/project3.png": "/walid-slim/static/media/project3.e981963f2f447e9b745d.png",
-    "static/media/nextjs.png": "/walid-slim/static/media/nextjs.48ddc8121a0fcb543d64.png",
-    "static/media/logo11.png": "/walid-slim/static/media/logo11.a17c70f0314b6dd6eb1c.png",
-    "static/media/mysql.png": "/walid-slim/static/media/mysql.ac08abf00e09d7c0a957.png",
-    "static/media/mongodb.png": "/walid-slim/static/media/mongodb.cb7359633234c4540863.png",
-    "static/media/logo2.svg": "/walid-slim/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
-    "index.html": "/walid-slim/index.html",
-    "main.44dced2e.css.map": "/walid-slim/static/css/main.44dced2e.css.map",
-    "main.a98a90af.js.map": "/walid-slim/static/js/main.a98a90af.js.map"
+    "main.css": "/static/css/main.44dced2e.css",
+    "main.js": "/static/js/main.964a8000.js",
+    "static/media/walid4.png": "/static/media/walid4.8cecb752fde99f87d943.png",
+    "static/media/project1.png": "/static/media/project1.20a76e8cc2a0d11b0a5f.png",
+    "static/media/project2.png": "/static/media/project2.f81d405d7f2257b407ac.png",
+    "static/media/native.png": "/static/media/native.90fb0021be64f2b1ce7e.png",
+    "static/media/project3.png": "/static/media/project3.e981963f2f447e9b745d.png",
+    "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/logo11.png": "/static/media/logo11.a17c70f0314b6dd6eb1c.png",
+    "static/media/mysql.png": "/static/media/mysql.ac08abf00e09d7c0a957.png",
+    "static/media/mongodb.png": "/static/media/mongodb.cb7359633234c4540863.png",
+    "static/media/logo2.svg": "/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
+    "index.html": "/index.html",
+    "main.44dced2e.css.map": "/static/css/main.44dced2e.css.map",
+    "main.964a8000.js.map": "/static/js/main.964a8000.js.map"
   },
   "entrypoints": [
     "static/css/main.44dced2e.css",
-    "static/js/main.a98a90af.js"
+    "static/js/main.964a8000.js"
   ]
 }
