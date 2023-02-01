@@ -39,12 +39,13 @@ export const personalDetails = {
   name: "Walid Slim",
   tagline: "I am a Fullstack JavaScript web developer",
   img: profile,
-  about: `I am a freshly graduate Full Stack JS developer with experience building websites and web applications. 
-  I specialize in JavaScript , TypeScript and have experience working with React .
-   I also have experience working with NextJs, and React Native . 
-  could you please take a look at my work in github
-  
-  I'm open to work and implement my technical skills.`,
+  about: `I am a freshly graduated Full Stack JS developer with experience building websites and web applications. I specialize in JavaScript, and TypeScript and have experience working with React. I also have experience working with NextJs and React Native.
+Now I’m ready to get a job and that’s very interesting because it will enhance my skills and teach me new things.
+I have extensive knowledge of typescript, JavaScript, SQL, react, and many other technologies. I have always been passionate about web development, which led me to pursue a full-stack JavaScript developer certificate at RBK.
+I am constantly seeking out new technologies and staying up to date on trends in the industry .
+I am confident that I’d make an asset to my next progress .
+
+Thank you for your time !`,
 };
 
 // Enter your Social Media URLs here
